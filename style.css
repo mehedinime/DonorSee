@@ -135,12 +135,16 @@ background-image: url(images/Vector.png);
 }
 .donate-now{
    background-color: #FF5959;
+  
     text-decoration: none;
-    margin-top:%;
+    margin-top: 10%;
+    margin-left: 45%;
+    margin-bottom: 10%;
     padding: 10px 20px ;
     border-radius: 5px;
     color: #fff;
     font-weight: 700;
+    
  
 }
 .service{
